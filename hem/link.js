@@ -1,0 +1,2 @@
+let button = document.write(`<a href="https://api.whatsapp.com/send?phone=6282147397175&text=Halo%20saya%20dapat%20iklan%20dari%20website%2C%20mau%20tanya%20harga%20terbaru%20Yamaha%20Gear%20(https://gear125-tts.yamahabismagroup.com)" class="pulse" id="wa"><i class="fa-brands fa-whatsapp"></i> <br> WA CS DISINI</a>`);
+    document.getElementById("wa").appendChild(button);
